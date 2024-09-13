@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KaanSanal28
+- 👀 I’m interested in Web Design, Python and C#
+- 🌱 I’m currently learning C#
+- 📫 To reach me kaansanal28@gmail.com
+- 📖 I am studying in high school
